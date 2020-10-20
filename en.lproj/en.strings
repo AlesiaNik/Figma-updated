@@ -9,4 +9,5 @@
 "see_more" = "see more";
 "Time" = "9:27";
 "Android.key" = "new key added";
-"Android.key.new" = "another key added";
+"Android.key.new" = "a key was updated";
+"Android.key.created" = "a key added";
