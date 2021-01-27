@@ -32,4 +32,5 @@
 "Profile.San_Francisco__ca." = "San Francisco, ca.";
 "Android.key" = "new key added";
 "Android.key.new" = "another key added";
-"test.key.1" = "test key added and then updated";
+"test.key.1" = "test key has been updated";
+"test.key.2" = "test key has been added";
