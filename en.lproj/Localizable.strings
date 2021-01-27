@@ -1,4 +1,5 @@
 "Create_password" = "Create password";
+"test_key" = "Automations added a key";
 "Email_address" = "Email address";
 "next" = "next";
 "Register" = "Register";
@@ -17,6 +18,18 @@
 "chats_mockup.wanted_to_ask_if_you’re_available_for_a_portrait_shoot_next_week." = "Wanted to ask if you’re available for a portrait shoot next week.";
 "chats_mockup.will_kenny" = "Will Kenny";
 "header.header" = "Chats";
+"Chats_mockup.Thank_you!_That_was_very_helpful!" = "Thank you! That was very helpful!";
+"Chats_mockup.I_know_..._I'm_trying_to_get_the_money." = "I know ... I'm trying to get the money.";
+"Chats_mockup.Rev._Shawn" = "Rev. Shawn";
+"Register.Register:" = "Register:";
+"Button.See_more" = "See more";
+"Chats_mockup.I'm_looking_for_tips_on_capturing_the_Milky_Way_galaxy._I_have_a_6D_with_a_24-100mm_..." = "I'm looking for tips on capturing the Milky Way galaxy. I have a 6D with a 24-100mm ...";
+"Component.Create_Password" = "Create Password";
+"Button.Next" = "Next";
+"Chats_mockup.Asked_if_you'll_be_available_for_a_portrait_shoot_next_week." = "Asked if you'll be available for a portrait shoot next week.";
+"Component.Email-address" = "Email-address";
+"Button.Embassy" = "Embassy";
+"Profile.San_Francisco__ca." = "San Francisco, ca.";
 "Android.key" = "new key added";
 "Android.key.new" = "another key added";
-"test.key.1" = "test key added";
+"test.key.1" = "test key added and then updated";
