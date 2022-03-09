@@ -10,13 +10,11 @@
 "Lokalise.Registration.Embassy" = "Embassy";
 "Lokalise.Registration.follow_jane" = "follow jane";
 "Lokalise.Registration.Header" = "Chats";
-"Lokalise.Registration.Time.79" = "9:28";
+"Lokalise.Registration.Time.46" = "9:28";
 "Lokalise.Registration.Will_Kenny" = "Will Kenny";
 "Lokalise.Registration.I'm_looking_for_tips_on_capturing_the_Milky_Way_galaxy._I_have_a_6D_with_a_24-100mm_..." = "I'm looking for tips on capturing the Milky Way galaxy. I have a 6D with a 24-100mm ...";
 "Lokalise.Registration.Thank_you!_That_was_very_helpful!" = "Thank you! That was very helpful!";
 "Lokalise.Registration.Next" = "Next";
 "Lokalise.Registration.Beth_Williams" = "Beth Williams";
 "Lokalise.Registration.Rev._Shawn" = "Rev. Shawn";
-"Lokalise.Registration.San_Francisco,_ca." = "San Francisco, ca.";
-"test.key" = "new source";
-"test.key2" = "new second source";
+"Lokalise::Registration.proper_key" = "San Francisco, ca.";
