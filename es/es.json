@@ -1,13 +1,12 @@
 {
-    "ECP.Register.Registration:": "",
-    "ECP.Component.Element_1": "",
-    "ECP.Profile.[%s]": "",
-    "ECP.Profile.San_Francisco,_ca.": "",
-    "ECP.Button.Embassy": "",
-    "ECP.Time.Time": "",
-    "ECP.Button.See_more": "",
-    "ECP.Button.follow_me": "",
-    "ECP.Component.Email-addresses": "",
-    "ECP.Register.Registration:.77": "",
-    "ECP.Button.NEXT": ""
+    "ECP.onboarding.Time": "9:27",
+    "ECP.onboarding.key_changes": "Registros:",
+    "ECP.onboarding.Element_1": "Crear contraseñas",
+    "ECP.onboarding.[%s]": "%s",
+    "ECP.onboarding.San_Francisco,_ca.": "San Francisco, CA.",
+    "ECP.onboarding.Embassy": "Embajada",
+    "ECP.onboarding.Email-addresses": "Correos electrónicos",
+    "ECP.onboarding.NEXT": "SIGUIENTE",
+    "onboarding.follow": "sígueme",
+    "proper.key.name": "Agrega 5 GBP a tu cuenta"
 }
