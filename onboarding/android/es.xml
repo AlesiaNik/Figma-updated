@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="test">Publicación de demostración (realizada por Alesia)</string>
+  <string name="Onboarding.Register.Register">Registrarse:</string>
+  <string name="Onboarding.Button.Embassy">Embajada</string>
+  <string name="Onboarding.Component.Create_Password">Crear contraseña</string>
+  <string name="Onboarding.Button.See_more">Ver más</string>
+  <string name="Onboarding.Profile.Jane">Jane</string>
+  <string name="Onboarding.Component.Email_address">Dirección de correo electrónico</string>
+  <string name="Onboarding.Time.new">9:27</string>
+  <string name="Onboarding.Button.NEXT">SIGUIENTE</string>
+  <string name="Onboarding.Profile.San_Francisco_ca.">San Francisco, CA.</string>
+  <string name="Onboarding.Button.Follow_me">Sígueme</string>
+  <string name="Onboarding.Time">9:27</string>
+  <string name="country.picker.latvia">letonia</string>
+  <string name="key.android.only">texto androide</string>
+  <string name="key.with.placeholder">Hola, %s</string>
+</resources>

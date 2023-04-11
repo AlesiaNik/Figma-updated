@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="test">test</string>
+  <string name="Onboarding.Register.Register">Register:</string>
+  <string name="Onboarding.Button.Embassy">Embassy</string>
+  <string name="Onboarding.Component.Create_Password">Create Password</string>
+  <string name="Onboarding.Button.See_more">See more</string>
+  <string name="Onboarding.Profile.Jane">Jane</string>
+  <string name="Onboarding.Component.Email_address">Email-address</string>
+  <string name="Onboarding.Time.new">9:27</string>
+  <string name="Onboarding.Button.NEXT">NEXT</string>
+  <string name="Onboarding.Profile.San_Francisco_ca.">San Francisco, ca.</string>
+  <string name="Onboarding.Button.Follow_me">Follow me</string>
+  <string name="Onboarding.Time">9:27</string>
+  <string name="country.picker.latvia">Latvia</string>
+  <string name="key.android.only">android text</string>
+  <string name="key.with.placeholder">Hello, %s</string>
 </resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="test">Demo-Post (von Alesia)</string>
+  <string name="Onboarding.Register.Register">Registrieren:</string>
+  <string name="Onboarding.Button.Embassy">Botschaft</string>
+  <string name="Onboarding.Component.Create_Password">Passwort erstellen</string>
+  <string name="Onboarding.Button.See_more">Mehr sehen</string>
+  <string name="Onboarding.Profile.Jane">Jane</string>
+  <string name="Onboarding.Component.Email_address">E-Mail-Addresse</string>
+  <string name="Onboarding.Time.new">9:27</string>
+  <string name="Onboarding.Button.NEXT">NÄCHSTE</string>
+  <string name="Onboarding.Profile.San_Francisco_ca.">San Francisco, ca.</string>
+  <string name="Onboarding.Button.Follow_me">Folgen Sie mir</string>
+  <string name="Onboarding.Time">9:27</string>
+  <string name="country.picker.latvia">Lettland</string>
+  <string name="key.android.only">Android-Text</string>
+  <string name="key.with.placeholder">Hallo, %s</string>
+</resources>
