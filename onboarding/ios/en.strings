@@ -1,1 +1,15 @@
 "test" = "test";
+"Onboarding.Register.Register:" = "Register:";
+"Onboarding.Button.Embassy" = "Embassy";
+"Onboarding.Component.Create_Password" = "Create Password";
+"Onboarding.Button.See_more" = "See more";
+"Onboarding.Profile.Jane" = "Jane";
+"Onboarding.Email-address" = "Email-address";
+"Onboarding.Time.9:27" = "9:27";
+"Onboarding.Button.NEXT" = "NEXT";
+"Onboarding.Profile.San_Francisco,_ca." = "San Francisco, ca.";
+"Onboarding.Button.Follow_me" = "Follow me";
+"Onboarding.Time" = "9:27";
+"key.country_selector.Latvia" = "Latvia";
+"key.hi.name" = "Hi, %@";
+"key.ios.only" = "iOS text";
