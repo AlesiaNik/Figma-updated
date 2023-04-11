@@ -1,17 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="Onboarding.Register.Register">Register:</string>
-  <string name="Onboarding.Button.Embassy">Embassy</string>
-  <string name="Onboarding.Component.Create_Password">Create Password</string>
-  <string name="Onboarding.Button.See_more">See more</string>
-  <string name="Onboarding.Profile.Jane">Jane</string>
-  <string name="Onboarding.Email_address">Email-address</string>
-  <string name="Onboarding.Time.927">9:27</string>
-  <string name="Onboarding.Button.NEXT">NEXT</string>
-  <string name="Onboarding.Profile.San_Francisco_ca.">San Francisco, ca.</string>
-  <string name="Onboarding.Button.Follow_me">Follow me</string>
-  <string name="Onboarding.Time">9:27</string>
-  <string name="key.country_selector.Latvia">Latvia</string>
-  <string name="key.hi.name">Hi, %s</string>
-  <string name="key.android.only">Android text</string>
+  <string name="test">test</string>
 </resources>
